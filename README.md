@@ -14,3 +14,5 @@ the git repository and needs to be created by the user.
 - The appsettings.json file in the API is also excluded. As this project makes use of the Cloudinary API (https://cloudinary.com/) you will need an account
 on that service, and to provide Cloudinary settings in this file. These settings are named as follows: CloudName, ApiKey, ApiSecret. More information can be found
 on the Cloudinary website.
+
+- A mock databse is included in the project, this makes us of SqlLite.
