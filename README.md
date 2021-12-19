@@ -15,4 +15,4 @@ the git repository and needs to be created by the user.
 on that service, and to provide Cloudinary settings in this file. These settings are named as follows: CloudName, ApiKey, ApiSecret. More information can be found
 on the Cloudinary website.
 
-- A mock databse is included in the project, this makes us of SqlLite.
+- A mock databse is included in the project, this makes use of SqlLite.
